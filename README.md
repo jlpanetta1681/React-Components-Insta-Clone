@@ -1,7 +1,7 @@
 # React-Components-Insta-Clone
 initial commit
 ## Composing React Components and Passing Data Via Props
-
+branch commit
 ## Introduction
 
 - For this project, you'll be building a simple Instagram clone using React.
