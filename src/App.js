@@ -49,5 +49,6 @@ const App = () => {
     </div>
   );
   }
+  console.log(Posts)
 
 export default App;
