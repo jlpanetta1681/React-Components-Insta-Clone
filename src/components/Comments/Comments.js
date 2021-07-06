@@ -8,9 +8,17 @@ const Comments = props => {
 
   return (
     <div>
-      {/* map through the comments prop and render a Comment for every piece of data */}
-    </div>
-  );
+    {/* map through the comments prop and render a Comment for every piece of data */}
+    {/* map through the comments prop and render a Comment for every piece of data */
+    comments.map((com) =>{
+      return <Comment comment={com}/>
+    })
+    }
+  </div>
+);
 };
+{/* map through the comments prop and render a Comment for every piece of data */}
+   
 
+console.log(Comments)
 export default Comments;
